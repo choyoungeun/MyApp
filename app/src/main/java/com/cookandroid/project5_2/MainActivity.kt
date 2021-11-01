@@ -8,6 +8,11 @@ import android.widget.TextView
 import java.util.*
 import kotlin.collections.ArrayList
 
+/*
+ * 2019117779_조영은: 저는 이 소스 코드를 다른 곳에서 복사해 오지 않고 직접 작성했습니다.
+ * 만약 이 코드를 다른 곳에서 복사한 사실이 밝혀질 경우, 어떤 불이익도 감수하겠습니다.
+ */
+
 class MainActivity : AppCompatActivity() {
 
     lateinit var Edit1 : EditText
